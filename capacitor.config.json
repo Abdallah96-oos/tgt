@@ -1,0 +1,8 @@
+{
+  "appId": "com.tgt.salesrep",
+  "appName": "TGT",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
